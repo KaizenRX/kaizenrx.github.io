@@ -1,6 +1,7 @@
 ---
 layout: splash
-permalink: /
+permalink: /about/
+title: "About"
 hidden: false
 header:
   overlay_color: "#2c3e50"
